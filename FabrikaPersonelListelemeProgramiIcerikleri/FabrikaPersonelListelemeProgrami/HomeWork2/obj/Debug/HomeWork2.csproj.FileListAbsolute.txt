@@ -1,0 +1,40 @@
+C:\Users\Metin\Desktop\HomeWork2\HomeWork2\bin\Debug\HomeWork2.exe.config
+C:\Users\Metin\Desktop\HomeWork2\HomeWork2\bin\Debug\HomeWork2.exe
+C:\Users\Metin\Desktop\HomeWork2\HomeWork2\bin\Debug\HomeWork2.pdb
+C:\Users\Metin\Desktop\HomeWork2\HomeWork2\obj\Debug\HomeWork2.Form1.resources
+C:\Users\Metin\Desktop\HomeWork2\HomeWork2\obj\Debug\HomeWork2.Properties.Resources.resources
+C:\Users\Metin\Desktop\HomeWork2\HomeWork2\obj\Debug\HomeWork2.csproj.GenerateResource.cache
+C:\Users\Metin\Desktop\HomeWork2\HomeWork2\obj\Debug\HomeWork2.csproj.CoreCompileInputs.cache
+C:\Users\Metin\Desktop\HomeWork2\HomeWork2\obj\Debug\HomeWork2.exe
+C:\Users\Metin\Desktop\HomeWork2\HomeWork2\obj\Debug\HomeWork2.pdb
+C:\Users\Metin\Desktop\HomeWork2\HomeWork2\obj\Debug\HomeWork2.csprojAssemblyReference.cache
+C:\Users\Metin\Desktop\C#\HomeWork2\HomeWork2\bin\Debug\HomeWork2.exe.config
+C:\Users\Metin\Desktop\C#\HomeWork2\HomeWork2\bin\Debug\HomeWork2.exe
+C:\Users\Metin\Desktop\C#\HomeWork2\HomeWork2\bin\Debug\HomeWork2.pdb
+C:\Users\Metin\Desktop\C#\HomeWork2\HomeWork2\obj\Debug\HomeWork2.csprojAssemblyReference.cache
+C:\Users\Metin\Desktop\C#\HomeWork2\HomeWork2\obj\Debug\HomeWork2.Form1.resources
+C:\Users\Metin\Desktop\C#\HomeWork2\HomeWork2\obj\Debug\HomeWork2.Properties.Resources.resources
+C:\Users\Metin\Desktop\C#\HomeWork2\HomeWork2\obj\Debug\HomeWork2.csproj.GenerateResource.cache
+C:\Users\Metin\Desktop\C#\HomeWork2\HomeWork2\obj\Debug\HomeWork2.csproj.CoreCompileInputs.cache
+C:\Users\Metin\Desktop\C#\HomeWork2\HomeWork2\obj\Debug\HomeWork2.exe
+C:\Users\Metin\Desktop\C#\HomeWork2\HomeWork2\obj\Debug\HomeWork2.pdb
+C:\Users\Metin\Desktop\C#\HomeWork2 - Copy\HomeWork2\bin\Debug\HomeWork2.exe.config
+C:\Users\Metin\Desktop\C#\HomeWork2 - Copy\HomeWork2\bin\Debug\HomeWork2.exe
+C:\Users\Metin\Desktop\C#\HomeWork2 - Copy\HomeWork2\bin\Debug\HomeWork2.pdb
+C:\Users\Metin\Desktop\C#\HomeWork2 - Copy\HomeWork2\obj\Debug\HomeWork2.csprojAssemblyReference.cache
+C:\Users\Metin\Desktop\C#\HomeWork2 - Copy\HomeWork2\obj\Debug\HomeWork2.Form1.resources
+C:\Users\Metin\Desktop\C#\HomeWork2 - Copy\HomeWork2\obj\Debug\HomeWork2.Properties.Resources.resources
+C:\Users\Metin\Desktop\C#\HomeWork2 - Copy\HomeWork2\obj\Debug\HomeWork2.csproj.GenerateResource.cache
+C:\Users\Metin\Desktop\C#\HomeWork2 - Copy\HomeWork2\obj\Debug\HomeWork2.csproj.CoreCompileInputs.cache
+C:\Users\Metin\Desktop\C#\HomeWork2 - Copy\HomeWork2\obj\Debug\HomeWork2.exe
+C:\Users\Metin\Desktop\C#\HomeWork2 - Copy\HomeWork2\obj\Debug\HomeWork2.pdb
+D:\Mustafa Serdar\Üniversite\Dersler\2. Sınıf\Güz Dönemi\Nesneye Yönelik Programlama (BİL 201)\Ödevler\Ödev 2\Nesneye Yönelik Programlama Mustafa Serdar Konca 190601052 Ödev 2\HomeWork2\bin\Debug\HomeWork2.exe.config
+D:\Mustafa Serdar\Üniversite\Dersler\2. Sınıf\Güz Dönemi\Nesneye Yönelik Programlama (BİL 201)\Ödevler\Ödev 2\Nesneye Yönelik Programlama Mustafa Serdar Konca 190601052 Ödev 2\HomeWork2\bin\Debug\HomeWork2.exe
+D:\Mustafa Serdar\Üniversite\Dersler\2. Sınıf\Güz Dönemi\Nesneye Yönelik Programlama (BİL 201)\Ödevler\Ödev 2\Nesneye Yönelik Programlama Mustafa Serdar Konca 190601052 Ödev 2\HomeWork2\bin\Debug\HomeWork2.pdb
+D:\Mustafa Serdar\Üniversite\Dersler\2. Sınıf\Güz Dönemi\Nesneye Yönelik Programlama (BİL 201)\Ödevler\Ödev 2\Nesneye Yönelik Programlama Mustafa Serdar Konca 190601052 Ödev 2\HomeWork2\obj\Debug\HomeWork2.csprojAssemblyReference.cache
+D:\Mustafa Serdar\Üniversite\Dersler\2. Sınıf\Güz Dönemi\Nesneye Yönelik Programlama (BİL 201)\Ödevler\Ödev 2\Nesneye Yönelik Programlama Mustafa Serdar Konca 190601052 Ödev 2\HomeWork2\obj\Debug\HomeWork2.Form1.resources
+D:\Mustafa Serdar\Üniversite\Dersler\2. Sınıf\Güz Dönemi\Nesneye Yönelik Programlama (BİL 201)\Ödevler\Ödev 2\Nesneye Yönelik Programlama Mustafa Serdar Konca 190601052 Ödev 2\HomeWork2\obj\Debug\HomeWork2.Properties.Resources.resources
+D:\Mustafa Serdar\Üniversite\Dersler\2. Sınıf\Güz Dönemi\Nesneye Yönelik Programlama (BİL 201)\Ödevler\Ödev 2\Nesneye Yönelik Programlama Mustafa Serdar Konca 190601052 Ödev 2\HomeWork2\obj\Debug\HomeWork2.csproj.GenerateResource.cache
+D:\Mustafa Serdar\Üniversite\Dersler\2. Sınıf\Güz Dönemi\Nesneye Yönelik Programlama (BİL 201)\Ödevler\Ödev 2\Nesneye Yönelik Programlama Mustafa Serdar Konca 190601052 Ödev 2\HomeWork2\obj\Debug\HomeWork2.csproj.CoreCompileInputs.cache
+D:\Mustafa Serdar\Üniversite\Dersler\2. Sınıf\Güz Dönemi\Nesneye Yönelik Programlama (BİL 201)\Ödevler\Ödev 2\Nesneye Yönelik Programlama Mustafa Serdar Konca 190601052 Ödev 2\HomeWork2\obj\Debug\HomeWork2.exe
+D:\Mustafa Serdar\Üniversite\Dersler\2. Sınıf\Güz Dönemi\Nesneye Yönelik Programlama (BİL 201)\Ödevler\Ödev 2\Nesneye Yönelik Programlama Mustafa Serdar Konca 190601052 Ödev 2\HomeWork2\obj\Debug\HomeWork2.pdb
